@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.first-section p {
+  color: green;
+  font-size: 14px;
+}
+.second-section p {
+  color: red;
+  font-size: 14px;
+}
+.third-section p {
+  color: blue;
+  font-size: 14px;
+}
